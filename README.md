@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Charles Tigoy from the Philippines.<br><br>- 🔭 I’m still a student and I can't find the error at line 404.<br>- 📚 I keep on learning.<br>- ⚡ In my free time I sleep.</p>
+<p align="left">I'm Shiraki from the Philippines.<br><br>- 🔭 I’m still a student and I can't find the error at line 404.<br>- 📚 I keep on learning.<br>- ⚡ In my free time I sleep.</p>
 
 ###
 
