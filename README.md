@@ -50,9 +50,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/shirakizuki/shirakizuki/output/snake.svg" alt="Snake animation" />
-
-###
